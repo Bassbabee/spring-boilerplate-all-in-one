@@ -1,0 +1,7 @@
+apply plugin: 'base'
+subprojects {
+	pply plugin: 'java'
+        repositories {
+            mavenCentral()
+        }
+    }
