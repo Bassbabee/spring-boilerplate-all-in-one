@@ -1,0 +1,4 @@
+include 'config'
+include 'eureka'
+include 'gateway'
+include 'monitoring'
