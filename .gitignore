@@ -1,14 +1,7 @@
-# Intellij
 .idea/
 *.iml
 *.iws
-
-# Mac
-.DS_Store
-
-# Eclipse
-**/*.project
-**/*.classpath
-**/*.settings
-
+*.ipr
 build/*
+*/build
+.gradle
